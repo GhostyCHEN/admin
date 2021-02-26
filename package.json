@@ -38,6 +38,7 @@
   "devDependencies": {
     "@ant-design/compatible": "^1.0.8",
     "antd": "^4.12.3",
+    "axios": "^0.21.1",
     "marked": "^2.0.0",
     "react-router-dom": "^5.2.0"
   }
